@@ -3,9 +3,11 @@ justbrowsing-repo
 
 Repository of AUR packages for JustBrowsing
 -------------
+
 Architectures:
 * i686 (x86)
 * armv6h (RaspberryPi) EXPERIMENTAL
+
 -------------
 Packages:
 * clearlooks-phenix-gtk-theme-git
